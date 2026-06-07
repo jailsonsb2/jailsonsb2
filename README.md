@@ -2,7 +2,7 @@
 
 ### Engenheiro Eletricista | Software Engineer | Data & IoT Architect
 
-Sou Engenheiro Eletricista com mais de 15 anos de sólida bagagem em eletrônica, ampla experiência no setor público e atuação em gestão estratégica de telecomunicações. Unindo com maestria a engenharia de hardware ao desenvolvimento de software, projeto e implemento ecossistemas de dados robustos, automações assíncronas de processos de missão crítica, arquiteturas multi-agentes de inteligência artificial (LLMs) e soluções de IoT de ponta a ponta.
+Sou Engenheiro Eletricista com mais de 10 anos de sólida bagagem em eletrônica, experiência no setor público e atuação em gestão estratégica de telecomunicações. Unindo com maestria a engenharia de hardware ao desenvolvimento de software, projeto e implemento ecossistemas de dados robustos, automações assíncronas de processos de missão crítica, arquiteturas multi-agentes de inteligência artificial (LLMs) e soluções de IoT de ponta a ponta.
 
 Especialista no desenho de sistemas distribuídos e no processamento de telemetria em tempo real, sou o idealizador e desenvolvedor de soluções GovTech e de plataformas independentes de mobilidade urbana inteligente com forte impacto no Distrito Federal.
 
@@ -45,14 +45,14 @@ Especialista no desenho de sistemas distribuídos e no processamento de telemetr
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jailsonsb2&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Jailson" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonsb2&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas por Jailson" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jailsonsb2&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Jailson" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonsb2&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas por Jailson" width="300" />
 </p>
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-- **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/jailsonsb) 
+- **LinkedIn:** [linkedin.com/in/jailsonsb](https://linkedin.com/in/jailsonsb) 
 - **E-mail Profissional:** [contato@jailson.es](mailto:contato@jailson.es)
 - **Portfólio Backend / Dev Entity:** JBCAST - App Dev
