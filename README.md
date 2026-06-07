@@ -45,8 +45,8 @@ Especialista no desenho de sistemas distribuídos e no processamento de telemetr
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jailsonsb2&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Jailson" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonsb2&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas por Jailson" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jailsonsb2&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Jailson" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jailsonsb2&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub de Jailson" width="400" />
 </p>
 
 ---
