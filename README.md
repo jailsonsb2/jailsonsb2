@@ -4,7 +4,7 @@
 
 Sou Engenheiro Eletricista com mais de 10 anos de sólida bagagem em eletrônica, experiência no setor público e atuação em gestão estratégica de telecomunicações. Unindo com maestria a engenharia de hardware ao desenvolvimento de software, projeto e implemento ecossistemas de dados robustos, automações assíncronas de processos de missão crítica, arquiteturas multi-agentes de inteligência artificial (LLMs) e soluções de IoT de ponta a ponta.
 
-Especialista no desenho de sistemas distribuídos e no processamento de telemetria em tempo real, sou o idealizador e desenvolvedor de soluções GovTech e de plataformas independentes de mobilidade urbana inteligente com forte impacto no Distrito Federal.
+Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e gerencio plataformas completas que unem backends estáveis, integrações de mídia, aplicativos mobile e soluções de mobilidade urbana inteligente com forte impacto no Distrito Federal.
 
 ---
 
@@ -12,8 +12,8 @@ Especialista no desenho de sistemas distribuídos e no processamento de telemetr
 
 - **Backend & Engenharia de Dados:** Python, SQL, PHP, Node.js, RabbitMQ (Mensageria assíncrona), Selenium (Web Scraping Avançado), InfluxDB (Time-series)
 - **Inteligência Artificial & NLP:** Google Gemini API (Arquiteturas Multi-Agentes / ReAct), Processamento de Linguagem Natural (NLP/spaCy), Engenharia de Prompts Estruturada, Pandas
-- **Observabilidade & Dashboards:** Grafana, Power BI, Qlik Sense (Criação de painéis analíticos e monitoramento de infraestrutura/NOC)
-- **Desenvolvimento Web & Mobile:** Progressive Web Apps (PWA), WordPress, Elementor, AJAX, APIs RESTful, Integração em Tempo Real
+- **Especialidades Web & Mídia:** WordPress, Elementor, AJAX, APIs RESTful, Streaming/Radio Players, Integração em Tempo Real
+- **Mobile & Observabilidade:** Android App Development (Java/Kotlin/PWAs), Grafana, Power BI, Qlik Sense (Painéis analíticos e monitoramento de infraestrutura/NOC)
 - **Hardware & IoT:** Sistemas Embarcados (ESP32, ESP8266), Protocolos de Comunicação (MQTT), Sensores de Energia (PZEM-004T), Hardware e Interfaciamento Elétrico
 
 ---
@@ -21,10 +21,15 @@ Especialista no desenho de sistemas distribuídos e no processamento de telemetr
 ## 🚀 Projetos em Destaque
 
 ### 🚌 [DF Bus - Horários de Ônibus DF](https://play.google.com/store/apps/details?id=com.jbcast.dfbus)
-*Aplicativo independente de mobilidade urbana ativa no Distrito Federal.*
+*Aplicativo mobile independente e plataforma de mobilidade urbana ativa no Distrito Federal.*
 - **Arquitetura & Engenharia:** Backend otimizado para consumo, tratamento e pipelines de APIs governamentais e dados brutos de telemetria/GPS em tempo real (Semob-DF).
 - **IA Agêntica:** Integração avançada com LLMs (Gemini API) para permitir consultas de rotas e horários complexos via linguagem natural.
 - **UX & Resiliência:** Arquitetura focada em privacidade, "Modo Soneca" baseado em geofencing e distribuição multiplataforma via PWA estável.
+
+### 📻 Radioplayer_api & Ecossistema de Mídia (JBCAST)
+*Soluções de backend e streaming voltadas para o ecossistema de rádio digital e aplicativos móveis.*
+- **Destaque Técnico:** Desenvolvimento de APIs REST nativas em **PHP** com comunicações assíncronas via **AJAX** para alimentação em tempo real de players de áudio web e móveis.
+- **Distribuição Mobile:** Publicação e gerenciamento de aplicações nativas e híbridas para **Android**, garantindo alta disponibilidade de streaming e interfaces responsivas construídas com **WordPress e Elementor**.
 
 ### 🤖 Enterprise NOC Agent (AI-Driven Automation)
 *Sistema multi-agente assíncrono para triagem e diagnóstico automatizado de infraestrutura.*
@@ -33,7 +38,7 @@ Especialista no desenho de sistemas distribuídos e no processamento de telemetr
 
 ### ⚡ Smart IoT Energy Monitor
 *Sistema embarcado de ponta a ponta para monitoramento analítico de eficiência energética.*
-- **Hardware & Edge:** Integração de microcontroladores (ESP32/ESP8266) com sensores analíticos **PZEM-004T** para coleta e processamento na ponta de métricas elétricas reais (tensão, corrente, potência, fator de potência).
+- **Hardware & Edge:** Integração de microcontroladores (ESP32/ESP8266) com sensores analíticos **PZEM-004T** para coleta e processamento na ponta de métricas elétricas reais.
 - **Data Pipeline & Observabilidade:** Telemetria estruturada via protocolo **MQTT** com persistência em banco de dados de séries temporais (**InfluxDB**) e dashboards analíticos em tempo real via **Grafana**.
 
 ### ⚖️ Participa-DF-Lite
