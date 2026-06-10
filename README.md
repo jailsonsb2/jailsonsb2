@@ -2,7 +2,7 @@
 
 ### Engenheiro Eletricista | Software Engineer | Data & IoT Architect
 
-Sou Engenheiro Eletricista com mais de 10 anos de sólida bagagem em eletrônica, experiência no setor público e atuação em gestão estratégica de telecomunicações. Unindo com maestria a engenharia de hardware ao desenvolvimento de software, projeto e implemento ecossistemas de dados robustos, automações assíncronas de processos de missão crítica, arquiteturas multi-agentes de inteligência artificial (LLMs) e soluções de IoT de ponta a ponta.
+Sou Engenheiro Eletricista com uma sólida bagagem em eletrônica, experiência no setor público e atuação em gestão estratégica de telecomunicações. Unindo com maestria a engenharia de hardware ao desenvolvimento de software, projeto e implemento ecossistemas de dados robustos, automações assíncronas de processos de missão crítica, arquiteturas multi-agentes de inteligência artificial (LLMs) e soluções de IoT de ponta a ponta.
 
 Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e gerencio plataformas completas que unem backends estáveis, integrações de mídia, aplicativos mobile e soluções de mobilidade urbana inteligente com forte impacto no Distrito Federal.
 
