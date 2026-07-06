@@ -32,7 +32,7 @@ Criei e publiquei em código aberto uma das primeiras APIs de metadados "now pla
 *Soluções de backend e streaming voltadas para o ecossistema de rádio digital e aplicativos móveis.* — **[demo ao vivo](https://radio.jailson.es/)**
 - **Destaque Técnico:** API de metadados em **PHP + Redis** (worker assíncrono, cache e **Server-Sent Events**) alimentando players de áudio web e móveis em tempo real, com enriquecimento via iTunes/Spotify/Deezer.
 - **Open Source:** Família de players com adoção real da comunidade — [RadioPlayer](https://github.com/jailsonsb2/RadioPlayer) (30★), [Radioplayer_api](https://github.com/jailsonsb2/Radioplayer_api) (25★) e [RadioPlayer-ZenoRadio](https://github.com/jailsonsb2/RadioPlayer-ZenoRadio) (20★).
-- **Origem do formato:** a primeira versão pública desta API (PHP) foi amplamente reutilizada pela comunidade — o mesmo formato de resposta aparece hoje em sistemas de rádio de terceiros em vários países.
+- **Origem do formato:** a primeira versão pública desta API ([RadioplayerAPI](https://github.com/jailsonsb2/RadioplayerAPI), jun/2024 — preservada como registro histórico) foi amplamente reutilizada pela comunidade; o mesmo formato de resposta aparece hoje em sistemas de rádio de terceiros em vários países.
 - **Distribuição Mobile:** Publicação e gerenciamento de aplicações nativas e híbridas para **Android**, garantindo alta disponibilidade de streaming e interfaces responsivas construídas com **WordPress e Elementor**.
 
 ### 🤖 Enterprise NOC Agent (AI-Driven Automation)
