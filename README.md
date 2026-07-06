@@ -26,9 +26,10 @@ Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e g
 - **IA Agêntica:** Integração avançada com LLMs (Gemini API) para permitir consultas de rotas e horários complexos via linguagem natural.
 - **UX & Resiliência:** Arquitetura focada em privacidade, "Modo Soneca" baseado em geofencing e distribuição multiplataforma via PWA estável.
 
-### 📻 Radioplayer_api & Ecossistema de Mídia (JBCAST)
-*Soluções de backend e streaming voltadas para o ecossistema de rádio digital e aplicativos móveis.*
-- **Destaque Técnico:** Desenvolvimento de APIs REST nativas em **PHP** com comunicações assíncronas via **AJAX** para alimentação em tempo real de players de áudio web e móveis.
+### 📻 [Radioplayer & Ecossistema de Mídia (JBCAST)](https://github.com/jailsonsb2/Radioplayer_api)
+*Soluções de backend e streaming voltadas para o ecossistema de rádio digital e aplicativos móveis.* — **[demo ao vivo](https://radio.jailson.es/)**
+- **Destaque Técnico:** API de metadados em **PHP + Redis** (worker assíncrono, cache e **Server-Sent Events**) alimentando players de áudio web e móveis em tempo real, com enriquecimento via iTunes/Spotify/Deezer.
+- **Open Source:** Família de players com adoção real da comunidade — [RadioPlayer](https://github.com/jailsonsb2/RadioPlayer) (30★), [Radioplayer_api](https://github.com/jailsonsb2/Radioplayer_api) (25★) e [RadioPlayer-ZenoRadio](https://github.com/jailsonsb2/RadioPlayer-ZenoRadio) (20★).
 - **Distribuição Mobile:** Publicação e gerenciamento de aplicações nativas e híbridas para **Android**, garantindo alta disponibilidade de streaming e interfaces responsivas construídas com **WordPress e Elementor**.
 
 ### 🤖 Enterprise NOC Agent (AI-Driven Automation)
@@ -36,12 +37,12 @@ Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e g
 - **Destaque Técnico:** Orquestração baseada em filas com **RabbitMQ** e workers de automação em **Python/Selenium** para capturar, categorizar e diagnosticar alarmes de conectividade.
 - **Análise & Inteligência:** Redução drástica do tempo de resposta (MTTR) em ambientes de Telecom por meio de triagem automatizada com LLMs e fallbacks seguros de execução.
 
-### ⚡ Smart IoT Energy Monitor
+### ⚡ [Smart IoT Energy Monitor](https://github.com/jailsonsb2/monitoramento-iot)
 *Sistema embarcado de ponta a ponta para monitoramento analítico de eficiência energética.*
 - **Hardware & Edge:** Integração de microcontroladores (ESP32/ESP8266) com sensores analíticos **PZEM-004T** para coleta e processamento na ponta de métricas elétricas reais.
 - **Data Pipeline & Observabilidade:** Telemetria estruturada via protocolo **MQTT** com persistência em banco de dados de séries temporais (**InfluxDB**) e dashboards analíticos em tempo real via **Grafana**.
 
-### ⚖️ Participa-DF-Lite
+### ⚖️ [Participa-DF-Lite](https://github.com/jailsonsb2/Participa-DF-Lite)
 *Solução GovTech ágil focada em transparência pública e conformidade de dados.*
 - **Destaque Técnico:** Pipelines de dados em Python usando expressões regulares avançadas (Regex) e técnicas de NLP (`spaCy`) para extração automatizada de metadados, higienização de strings e anonimização de dados sensíveis em conformidade com a **LGPD**.
 
@@ -62,6 +63,7 @@ Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e g
 
 ## 📫 Vamos nos conectar?
 
-- **LinkedIn:** [linkedin.com/in/jailsonsb](https://linkedin.com/in/jailsonsb) 
+- **LinkedIn:** [linkedin.com/in/jailsonsb](https://linkedin.com/in/jailsonsb)
 - **E-mail Profissional:** [contato@jailson.es](mailto:contato@jailson.es)
+- **Rádio demo (player + API ao vivo):** [radio.jailson.es](https://radio.jailson.es/)
 - **Portfólio Backend / Dev Entity:** JBCAST - App Dev
