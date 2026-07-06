@@ -2,9 +2,11 @@
 
 ### Engenheiro Eletricista | Software Engineer | Data & IoT Architect
 
-Sou Engenheiro Eletricista com uma sólida bagagem em eletrônica, experiência no setor público e atuação em gestão estratégica de telecomunicações. Unindo com maestria a engenharia de hardware ao desenvolvimento de software, projeto e implemento ecossistemas de dados robustos, automações assíncronas de processos de missão crítica, arquiteturas multi-agentes de inteligência artificial (LLMs) e soluções de IoT de ponta a ponta.
+> 🌎 **EN:** Electrical Engineer and software developer. I build end-to-end systems that connect hardware to the cloud — IoT telemetry, real-time radio streaming APIs, AI multi-agent automation and mobile apps. Creator of one of the first open-source "now playing" metadata APIs for web radio players — a response format that was widely copied and today underpins third-party radio systems around the world (75+ ⭐ across the player family).
 
-Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e gerencio plataformas completas que unem backends estáveis, integrações de mídia, aplicativos mobile e soluções de mobilidade urbana inteligente com forte impacto no Distrito Federal.
+Sou Engenheiro Eletricista com sólida bagagem em eletrônica, experiência no setor público e gestão estratégica de telecomunicações. Uno engenharia de hardware e desenvolvimento de software para projetar ecossistemas de dados, automações assíncronas de missão crítica, arquiteturas multi-agentes de IA (LLMs) e soluções de IoT de ponta a ponta.
+
+Criei e publiquei em código aberto uma das primeiras APIs de metadados "now playing" para rádios online — o formato de resposta que desenhei foi amplamente reutilizado pela comunidade e hoje serve de base para players e sistemas de rádio de terceiros em vários países. Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e gerencio plataformas completas que unem backends estáveis, integrações de mídia, aplicativos mobile e soluções de mobilidade urbana inteligente com forte impacto no Distrito Federal.
 
 ---
 
@@ -30,6 +32,7 @@ Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e g
 *Soluções de backend e streaming voltadas para o ecossistema de rádio digital e aplicativos móveis.* — **[demo ao vivo](https://radio.jailson.es/)**
 - **Destaque Técnico:** API de metadados em **PHP + Redis** (worker assíncrono, cache e **Server-Sent Events**) alimentando players de áudio web e móveis em tempo real, com enriquecimento via iTunes/Spotify/Deezer.
 - **Open Source:** Família de players com adoção real da comunidade — [RadioPlayer](https://github.com/jailsonsb2/RadioPlayer) (30★), [Radioplayer_api](https://github.com/jailsonsb2/Radioplayer_api) (25★) e [RadioPlayer-ZenoRadio](https://github.com/jailsonsb2/RadioPlayer-ZenoRadio) (20★).
+- **Origem do formato:** a primeira versão pública desta API (PHP) foi amplamente reutilizada pela comunidade — o mesmo formato de resposta aparece hoje em sistemas de rádio de terceiros em vários países.
 - **Distribuição Mobile:** Publicação e gerenciamento de aplicações nativas e híbridas para **Android**, garantindo alta disponibilidade de streaming e interfaces responsivas construídas com **WordPress e Elementor**.
 
 ### 🤖 Enterprise NOC Agent (AI-Driven Automation)
@@ -50,6 +53,10 @@ Como desenvolvedor independente e fundador da **JBCAST - App Dev**, construo e g
 
 ## 📊 Estatísticas do GitHub
 
+<!-- Instância comunitária do github-readme-stats (a oficial vive em rate-limit).
+     Se a imagem parar de carregar: faça deploy gratuito do github-readme-stats
+     na sua conta Vercel (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)
+     e troque o domínio abaixo pelo seu. -->
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jailsonsb2&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Jailson" width="400" />
 </p>
