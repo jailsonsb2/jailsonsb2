@@ -1,8 +1,8 @@
 # Olá, eu sou o Jailson Bezerra! 👋
 
-### Engenheiro Eletricista | Software Engineer | Data & IoT Architect
+### Engenheiro Eletricista | Arquiteto de Software | Data & IoT
 
-> 🌎 **EN:** Electrical Engineer and software developer. I build end-to-end systems that connect hardware to the cloud — IoT telemetry, real-time radio streaming APIs, AI multi-agent automation and mobile apps. Creator of one of the first open-source "now playing" metadata APIs for web radio players — a response format that was widely copied and today underpins third-party radio systems around the world (75+ ⭐ across the player family).
+> 🌎 **EN:** Electrical Engineer and software architect. I build end-to-end systems that connect hardware to the cloud — IoT telemetry, real-time radio streaming APIs, AI multi-agent automation and mobile apps. Creator of one of the first open-source "now playing" metadata APIs for web radio players — a response format that was widely copied and today underpins third-party radio systems around the world (80+ ⭐ across the player family, now with synchronized YouTube clip mode).
 
 Sou Engenheiro Eletricista com sólida bagagem em eletrônica, experiência no setor público e gestão estratégica de telecomunicações. Uno engenharia de hardware e desenvolvimento de software para projetar ecossistemas de dados, automações assíncronas de missão crítica, arquiteturas multi-agentes de IA (LLMs) e soluções de IoT de ponta a ponta.
 
@@ -29,10 +29,10 @@ Criei e publiquei em código aberto uma das primeiras APIs de metadados "now pla
 - **UX & Resiliência:** Arquitetura focada em privacidade, "Modo Soneca" baseado em geofencing e distribuição multiplataforma via PWA estável.
 
 ### 📻 [Radioplayer & Ecossistema de Mídia (JBCAST)](https://github.com/jailsonsb2/Radioplayer_api)
-*Soluções de backend e streaming voltadas para o ecossistema de rádio digital e aplicativos móveis.* — **[demo ao vivo](https://radio.jailson.es/)**
-- **Destaque Técnico:** API de metadados em **PHP + Redis** (worker assíncrono, cache e **Server-Sent Events**) alimentando players de áudio web e móveis em tempo real, com enriquecimento via iTunes/Spotify/Deezer.
-- **Open Source:** Família de players com adoção real da comunidade — [RadioPlayer](https://github.com/jailsonsb2/RadioPlayer) (30★), [Radioplayer_api](https://github.com/jailsonsb2/Radioplayer_api) (25★) e [RadioPlayer-ZenoRadio](https://github.com/jailsonsb2/RadioPlayer-ZenoRadio) (20★).
-- **Origem do formato:** a primeira versão pública desta API ([RadioplayerAPI](https://github.com/jailsonsb2/RadioplayerAPI), jun/2024 — preservada como registro histórico) foi amplamente reutilizada pela comunidade; o mesmo formato de resposta aparece hoje em sistemas de rádio de terceiros em vários países.
+*Soluções de backend e streaming voltadas para o ecossistema de rádio digital e aplicativos móveis.* — **[demo ao vivo](https://radio.jailson.es/)** · **[docs da API + testador](https://jailsonsb2.github.io/now-playing-api/)**
+- **Destaque Técnico:** API de metadados em **PHP + Redis** (worker assíncrono, cache na borda e **Server-Sent Events**) alimentando players web e móveis em tempo real, com enriquecimento via iTunes/Spotify/Deezer **e resolução do clipe no YouTube** — os players exibem o vídeo da música **sincronizado com a rádio**.
+- **Open Source:** Família de players com adoção real da comunidade (80+ ⭐) — [RadioPlayer](https://github.com/jailsonsb2/RadioPlayer) (30★), [Radioplayer_api](https://github.com/jailsonsb2/Radioplayer_api) (25★), [RadioPlayer-ZenoRadio](https://github.com/jailsonsb2/RadioPlayer-ZenoRadio) (21★) e o [bottom_radioplayer](https://github.com/jailsonsb2/bottom_radioplayer) — componente de rodapé em que **o áudio não para enquanto o visitante navega pelo site** (navegação seamless).
+- **Origem do formato:** a primeira versão pública desta API ([RadioplayerAPI](https://github.com/jailsonsb2/RadioplayerAPI), jun/2024 — preservada como registro histórico) foi amplamente reutilizada pela comunidade; o mesmo formato de resposta aparece hoje em sistemas de rádio de terceiros em vários países. A [documentação pública](https://github.com/jailsonsb2/now-playing-api) define o contrato atual (incluindo `youtubeId` e o princípio "o ICY é lei").
 - **Distribuição Mobile:** Publicação e gerenciamento de aplicações nativas e híbridas para **Android**, garantindo alta disponibilidade de streaming e interfaces responsivas construídas com **WordPress e Elementor**.
 
 ### 🤖 Enterprise NOC Agent (AI-Driven Automation)
