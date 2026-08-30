@@ -4,7 +4,7 @@
 
 Electrical Engineer and Data/AI specialist focused on building reliable systems for real-world operations. My work sits at the intersection of **software engineering, automation, data engineering, distributed systems and applied AI**, especially in mission-critical environments.
 
-I design and build end-to-end solutions that connect legacy systems, APIs, asynchronous workflows, data pipelines and intelligent agents — from backend and infrastructure to observability, evaluation and production reliability.
+I design and build end-to-end solutions that connect legacy systems, APIs, asynchronous workflows, data pipelines and intelligent agents from backend and infrastructure to observability, evaluation and production reliability.
 
 ---
 
