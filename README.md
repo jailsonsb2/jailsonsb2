@@ -1,67 +1,86 @@
 # Hi, I'm Jailson Bezerra 👋
 
-### Software Engineering · Automation · Data · AI · Technical Leadership
+### Software, Data & AI Engineer
 
-Electrical Engineer and Data/AI specialist focused on building reliable systems for real-world operations. My work sits at the intersection of **software engineering, automation, data engineering, distributed systems and applied AI**, especially in mission-critical environments.
+I build production systems at the intersection of **software engineering, data, automation and applied AI**, with experience in mission-critical operations, telecom, real-time systems and enterprise integration.
 
-I design and build end-to-end solutions that connect legacy systems, APIs, asynchronous workflows, data pipelines and intelligent agents from backend and infrastructure to observability, evaluation and production reliability.
-
----
-
-## 🔧 What I work with
-
-### Software & Architecture
-**Python · FastAPI · Django · React · JavaScript/TypeScript · REST APIs · Microservices · Distributed Systems · Event-Driven Architecture · RabbitMQ · Docker · Linux**
-
-### Data Engineering
-**SQL · Apache Airflow · ETL/ELT · Data Pipelines · Power BI · Medallion Architecture · Lakehouse · Data Quality · Analytics**
-
-### AI Engineering
-**Generative AI · LLMs · RAG · Multi-Agent Systems · Agent Orchestration · Function Calling · MCP · Qdrant · Neo4j · LLM Evaluation · Human-in-the-loop · Guardrails · AI Observability**
-
-### Automation & Engineering
-**Enterprise Integration · Process Automation · Network Operations · Telecom · IoT · MQTT · Embedded Systems · Real-Time Systems · Troubleshooting · RCA**
-
-### Currently expanding
-**LangGraph · CrewAI · Databricks · PySpark · Cloud Architecture · CI/CD · LLMOps**
+My work goes beyond isolated models or scripts: I design end-to-end solutions that connect **APIs, legacy systems, asynchronous processing, data pipelines, observability and AI agents** into reliable operational products.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Work
 
-### 🚌 DF Bus — Real-Time Mobility & Conversational AI
-Public transport platform for Brasília built with **Python/FastAPI, REST APIs, geolocation, PWA and real-time vehicle data**. It integrates **Google Gemini + Function Calling** so users can query routes, schedules and journeys in natural language.
+### 🤖 [Agentic NOC Platform](https://github.com/jailsonsb2/agentic-noc-showcase)
+Production-oriented platform for technical incident analysis and automation in network operations.
 
-### 📻 RadioPlayer / JBCAST — Real-Time & Event-Driven Systems
-Open-source ecosystem of streaming players and APIs using **SSE, Redis, caching, asynchronous workers, external integrations and real-time metadata**. The player family has real community adoption and multiple public implementations.
+**Python · FastAPI · RabbitMQ · PostgreSQL · Qdrant · Neo4j · RAG · Multi-Agent Systems · Function Calling · MCP · Human-in-the-Loop**
 
-### ⚡ Smart IoT Energy Monitor
-End-to-end energy monitoring system combining **ESP32/ESP8266, PZEM-004T, MQTT, InfluxDB and Grafana**, connecting embedded hardware, telemetry, time-series data and observability.
-
-### 🤖 Enterprise NOC Agent — Agentic Automation
-Production-oriented multi-agent architecture for telecom incident analysis and automation, combining **Python, FastAPI, RabbitMQ, RAG, vector/graph databases, tool integration, observability, evaluation and deterministic guardrails**.
-
-### 📊 Data Engineering Labs
-Hands-on projects with **Apache Airflow, Python, SQL, ETL/ELT, data quality and analytics**, extending toward **Databricks, PySpark and Lakehouse/Medallion architectures**.
+The architecture combines deterministic automation, retrieval, topology context, specialized workers, AI reasoning, observability and validation safeguards.
 
 ---
 
-## 🎯 Professional Focus
+### 🚌 [DF Bus — Real-Time Mobility Platform](https://github.com/jailsonsb2/dfbus-showcase)
+Real-time public transportation product for Brasília integrating mobility data, geospatial processing, vehicle telemetry and conversational AI.
 
-I am especially interested in roles involving:
+**Python · FastAPI · REST APIs · JavaScript · Leaflet · PWA · Geospatial Data · Real-Time Systems · Function Calling**
 
-- **Senior Software Engineering / Backend / Full Stack with Python**
-- **Automation Engineering, AIOps and Technical Leadership**
-- **AI Engineering, GenAI and Agentic Systems**
-- **Data Engineering and Data & AI platforms**
-- **Solution Engineering / Architecture / Technical Consulting**
+Designed across backend, frontend, integrations and production data flows.
 
-My strongest differentiator is not a single framework: it is the ability to connect **software, operations, data and AI** into systems that work reliably in production.
+---
+
+### ⚙️ [Enterprise Automation Platform](https://github.com/jailsonsb2/enterprise-automation-platform-showcase)
+Engineering showcase of enterprise automations connecting legacy systems, REST APIs, browser workflows, operational datasets, analytics and cloud integrations.
+
+**Python · Pandas · Selenium · BeautifulSoup · REST APIs · JWT · Retry Policies · Circuit Breakers · Data Processing · Power BI**
+
+Focused on reliability, authentication, process coordination, failure recovery and progressive modernization of critical workflows.
+
+---
+
+### 🏆 [Participa DF](https://github.com/jailsonsb2/Participa-DF-Lite)
+Public-source PWA developed for the **1st Hackathon in Social Control of the Federal District Government**, achieving **5th place in the Ombudsman category**.
+
+**FastAPI · JavaScript · PWA · IndexedDB · Service Workers · Leaflet · Accessibility · Offline-First**
+
+Built around low connectivity, accessibility, privacy and interoperability constraints.
+
+---
+
+## 🧩 Engineering Areas
+
+**Software Engineering**  
+Python · FastAPI · Django · JavaScript/TypeScript · React · REST APIs · Distributed Systems · Event-Driven Architecture · Docker · Linux
+
+**Data Engineering**  
+SQL · Apache Airflow · ETL/ELT · Data Pipelines · Data Quality · Power BI · Lakehouse concepts · Medallion Architecture
+
+**AI Engineering**  
+LLMs · RAG · Agentic Systems · Multi-Agent Workflows · Function Calling · MCP · Vector Databases · Graph Databases · Evaluation · Guardrails · Human-in-the-Loop
+
+**Automation & Systems**  
+Enterprise Integration · Telecom · Network Operations · Real-Time Systems · IoT · MQTT · Embedded Systems · Operational Reliability
+
+---
+
+## 🧠 How I approach engineering
+
+I tend to work close to the problem domain, not only inside the application layer.
+
+That means understanding the operational process, identifying where deterministic software is the right tool, where data engineering is required, and where AI actually adds value.
+
+My strongest differentiator is the ability to connect **software, operations, data and AI** into systems that solve real problems and can operate reliably in production.
+
+---
+
+## 🎓 Background
+
+**Electrical Engineering**  
+Postgraduate studies in **Data Engineering & Artificial Intelligence**
+
+This background gives me a systems-oriented perspective that spans software, data, infrastructure, automation, electronics and operational environments.
 
 ---
 
 ## 📫 Connect
 
-- **LinkedIn:** [linkedin.com/in/jailsonsb](https://linkedin.com/in/jailsonsb)
-- **Portfolio:** [jailson.es](https://jailson.es)
-- **E-mail:** [contato@jailson.es](mailto:contato@jailson.es)
+[LinkedIn](https://linkedin.com/in/jailsonsb) · [Portfolio](https://jailson.es) · [E-mail](mailto:contato@jailson.es)
